@@ -12,16 +12,13 @@
 
 # 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=kskcoder&show_icons=true&theme=dark" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kskcoder&layout=compact&theme=dark" />
-
+![](https://github-readme-stats.vercel.app/api?username=kskcoder&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=kskcoder&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kskcoder&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 ---
-
-# 🔝 Top Contributed Repositories:
-![](https://github-readme-stats.vercel.app/api/pin/?username=kskcoder&repo=banking-system-simulator&theme=dark&hide_border=false)
 
 [![](https://visitcount.itsvg.in/api?id=kskcoder&icon=0&color=0)](https://visitcount.itsvg.in)
 
