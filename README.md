@@ -19,8 +19,11 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=kskcoder&limit=5&theme=dark&combine_all_yearly_contributions=true)
+### ⭐ Featured Project
+
+[![Banking System Simulator](https://img.shields.io/badge/Backend%20Project-Banking%20System%20Simulator-0A66C2?style=for-the-badge&logo=github)](https://github.com/kskcoder/Banking-System-Simulator)
+
+> A backend-focused Java + Spring Boot banking system simulator covering authentication, transactions, concurrency, and system design concepts.
 
 ---
 
