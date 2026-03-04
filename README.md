@@ -1,10 +1,25 @@
 # 💫 About Me:
-👋 Hi, I’m Tejas<br><br>Backend-focused software developer with hands-on experience building secure, scalable systems. Currently working in a product environment while actively strengthening my backend fundamentals through real-world projects.<br><br>Backend-leaning developer with a strong foundation in Core Java and object-oriented design<br><br>Experience building RESTful APIs, handling authentication, and designing transaction-safe workflows<br><br>Comfortable working with both monolithic and microservices architectures<br><br>Hands-on with Spring Boot, JWT, Kafka, Redis, and relational databases<br><br>Industry experience integrating client applications with backend systems under high-traffic conditions (1M+ users)<br><br>Actively building and refining personal backend projects to deepen system-design and data-handling skills<br><br>Regularly practicing data structures and algorithms on LeetCode
-<br><br>Curious, practical learner who prefers understanding why systems work, not just how to code them
+👋 Hi, I’m Tejas<br><br>
+iOS-focused software developer with hands-on experience building scalable, high-performance mobile applications. Currently working in a product environment while continuously strengthening my iOS fundamentals through practical projects and architectural exploration.<br><br>
 
+iOS developer with a strong foundation in Swift and object-oriented programming<br><br>
+
+Experience building dynamic, user-centric interfaces using UIKit and SwiftUI<br><br>
+
+Comfortable working with modular architectures, MVVM, and clean code principles<br><br>
+
+Hands-on with API integration, state management, asynchronous programming, and local persistence (CoreData/SwiftData)<br><br>
+
+Industry experience contributing to high-traffic production apps supporting 1M+ users<br><br>
+
+Actively building and refining personal iOS projects to deepen understanding of performance optimization and scalable UI systems<br><br>
+
+Regularly practicing data structures and algorithms on LeetCode<br><br>
+
+Regularly revisiting core computer science fundamentals and problem-solving concepts<br><br>
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tejas-surendra-kashid) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tejaskashid21@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tejas-surendra-kashid) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tejaskashid21@gmail.com)
     [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/u/tskcoder/)
 
 # 💻 Tech Stack:
