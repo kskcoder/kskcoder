@@ -1,25 +1,25 @@
 # 💫 About Me:
 👋 Hi, I’m Tejas<br><br>
-iOS-focused software developer with hands-on experience building scalable, high-performance mobile applications. Currently working in a product environment while continuously strengthening my iOS fundamentals through practical projects and architectural exploration.<br><br>
+iOS-focused software developer with hands-on experience building scalable, high-performance mobile applications. Currently working in a product environment while continuously strengthening my iOS fundamentals through practical projects and architectural exploration.<br>
 
-iOS developer with a strong foundation in Swift and object-oriented programming<br><br>
+iOS developer with a strong foundation in Swift and object-oriented programming<br>
 
-Experience building dynamic, user-centric interfaces using UIKit and SwiftUI<br><br>
+Experience building dynamic, user-centric interfaces using UIKit and SwiftUI<br>
 
-Comfortable working with modular architectures, MVVM, and clean code principles<br><br>
+Comfortable working with modular architectures, MVVM, and clean code principles<br>
 
-Hands-on with API integration, state management, asynchronous programming, and local persistence (CoreData/SwiftData)<br><br>
+Hands-on with API integration, state management, asynchronous programming, and local persistence (CoreData/SwiftData)<br>
 
-Industry experience contributing to high-traffic production apps supporting 1M+ users<br><br>
+Industry experience contributing to high-traffic production apps supporting 1M+ users<br>
 
-Actively building and refining personal iOS projects to deepen understanding of performance optimization and scalable UI systems<br><br>
+Actively building and refining personal iOS projects to deepen understanding of performance optimization and scalable UI systems<br>
 
-Regularly practicing data structures and algorithms on LeetCode<br><br>
+Regularly practicing data structures and algorithms on LeetCode<br>
 
-Regularly revisiting core computer science fundamentals and problem-solving concepts<br><br>
+Regularly revisiting core computer science fundamentals and problem-solving concepts<br>
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tejas-surendra-kashid) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tejaskashid21@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tejas-surendra-kashid) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tejaskashid21@gmail.com)
     [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/u/tskcoder/)
 
 # 💻 Tech Stack:
